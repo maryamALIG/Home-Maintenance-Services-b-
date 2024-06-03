@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+header {
+    background-color: #ffffff;
+    color: #0a0a0a;
+    text-align: center;
+    padding: 0px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0a0a0a;
+}
+
+section {
+    padding: 10px;
+}
+
+.service {
+    background-color: rgb(203, 193, 193);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    a:hover {
+        text-decoration: none;
+      }
+
+}
+
+footer {
+    background-color: #282525;
+    color: #fffdfd;
+    text-align: center;
+    padding: 10px 0;
+}
+body {
+    a:hover {
+  text-decoration: none;
+}
+font-family: Arial, sans-serif;
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container {
+    text-align: center; /* توسيط الصورة */
+}
+
+.container img {
+    width: 100px; /* تحديد عرض الصورة */
+    height: 100px; /* السماح بالارتفاع يتم ضبطه تلقائيًا */
+}
+
